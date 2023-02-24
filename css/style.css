@@ -1,0 +1,26 @@
+/* .banner {
+    background-size: cover;
+    min-height: 60vh;
+    position: relative;
+    color: white;
+}
+
+.banner h1 {
+    font-size: 4rem;
+}
+
+.color-overlay {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+@media screen and (max-width: 576px) {
+    .banner {
+        min-height: 30vh;
+    }
+
+    h1 {
+        font-size: calc(1.525rem +3.3vw);
+    }
+} */
