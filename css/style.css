@@ -24,3 +24,13 @@
         font-size: calc(1.525rem +3.3vw);
     }
 } */
+.man-img {
+    height: 100px;
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+
+.bg-carousel {
+    height: 500px;
+}
